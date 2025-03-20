@@ -1,0 +1,28 @@
+body{
+  overflow-x: hidden;
+}
+.templesPage {
+    padding: 10px;
+  }
+  
+  .templesPage h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .templeList {
+    list-style-type: disc;
+    padding: 8;
+  }
+  
+  .templeItem {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+
+.templeItem:hover{
+  text-decoration: underline;
+  color: blue;
+}
+  

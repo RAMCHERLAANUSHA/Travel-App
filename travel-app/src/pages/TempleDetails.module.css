@@ -1,0 +1,57 @@
+.templeDetails {
+    padding: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+    padding-top: 50px;
+  }
+  .heading{
+    text-align: center;
+    font-weight: 700;
+  }
+  .header {
+    position: relative;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .templeImage {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+  }
+  
+  .templeText{
+    margin: 10px 0;
+    line-height: 1.6;
+    text-align: justify;
+    text-indent: 3em;
+    margin-bottom: 1em;
+  }
+  .backButton {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    background: none;
+    border: none;
+    font-size: 30px;
+    font-weight: 900;
+    cursor: pointer;
+  }
+  .templeHistory{
+    margin: 10px 0;
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 1em;
+  }
+  .templeDistrict,
+  .templeWebsite {
+    margin: 10px 0;
+    line-height: 1.6;
+  }
+  .error {
+    text-align: center;
+    color: red;
+  }
+  
