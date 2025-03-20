@@ -1471,13 +1471,104 @@
     { "id": 9, "name": "Gujarat" },
     { "id": 10, "name": "Haryana" },
     { "id": 11, "name": "Himachal Pradesh" },
-    { "id": 12, "name": "Jammu and Kashmir" },
+
+    { 
+      "id": 12, 
+      "name": "Jammu and Kashmir",
+      "temples":[
+        {
+          "t_id": 1201,
+          "name":"Raghunath Temple",
+          "text": "Raghunath Temple is a Hindu temple located in Jammu in the Indian union territory of Jammu and Kashmir. It consists of a complex of seven Hindu shrines. Raghunath Temple was constructed by the first Dogra ruler Maharaja Gulab Singh in the year 1835 and later his son Maharaja Ranbir Singh got it completed in the year 1860 during Dogra rule.[1] The temple has many gods in its complex of shrines, but the presiding deity is Rama - also known as Raghunath, an Avatar of Vishnu.",
+          "history":"During the reign of the rulers of Jammu Shivaliks, after 1765, there was a spurt in temple building activity in Jammu area, which continued during the early period of the 19th century. The rulers built spiral shaped temples with brick and crowned each tower with bright Kalashas in the shape of shikhara (rising tower). One such temple complex was started in 1822 by Gulab Singh, the ruler of Jammu and was dedicated to his guru Baba Prem Das. Its construction was completed in 1860 by his son Maharaja Ranbir Singh. However, according to an inscription in Brahmic script (Takri) at the entrance of the temple, Gulab Singh and his brother Dhyan Singh are credited with building the temple in 1827 in honour of Mahant Jagannath.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13747514.590544673!2d56.40494685!3d32.73051190000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391e856f8a2dac73%3A0xe98e876f075b1cc0!2sShri%20Raghunath%20Temple%2C%20Jammu!5e0!3m2!1sen!2sin!4v1742468034060!5m2!1sen!2sin" ,
+          "district":"Jammu",
+          "website":"https://jammu.nic.in/tourist-place/raghunath-temple-jammu/",
+          "image":"/1201.JPG",
+          "state": "Jammu and Kashmir",
+          "country": "India"
+        },
+        {
+          "t_id": 1202,
+          "name":"Vaishno Devi Temple",
+          "text": "Vaishno Devi Temple, also known as the Shri Mata Vaishno Devi Temple and Vaishno Devi Bhavan, is a Hindu temple located in Katra, Jammu and Kashmir, dedicated to Vaishno Devi, a manifestation of Mahakali, Mahalakshmi, and Mahasarasvati. It is located on the Trikuta mountain at 5,000 feet / 1,500 meters elevation. The Shakti tradition considers it to be a Shakti Pitha. The temple is governed by the Shri Mata Vaishno Devi Shrine Board (SMVDSB) and has been chaired by the Governor of Jammu and Kashmir since August 1986.",
+          "history":"Although the Vaishno Devi temple is now the most popular Devi shrine in the region, its popularity is relatively recent. In 1971, when Inderjit Bhardwaj did a study of Devi shrines in the Siwalik mountains, he did not mention the Vaishno Devi temple as particularly important. Its popularity increased rapidly after an expansion was done in 1976 so that it could accommodate up to 5,000 visitors per day. By 1981, annual visitors to the shrine were about 900,000; by the early 1990s, the number had increased to over 3 million, and the Vaishno Devi temple had become by far the most popular Devi temple in the region. By 2007, the annual number of pilgrims was about 7.5 million. In June 2007, in order to reduce congestion and improve security, the Shrine Board reduced the limit on the number of visitors allowed per month.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14836337.554374857!2d64.96847156526847!3d24.790223429507733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391e786b6985aaad%3A0xa04ab611af048191!2sVaishno%20Devi!5e0!3m2!1sen!2sin!4v1742468301475!5m2!1sen!2sin",
+          "district":"Reasi",
+          "website":"https://www.maavaishnodevi.org/",
+          "image":"/1202.jpg",
+          "state": "Jammu and Kashmir",
+          "country": "India"
+        },
+        {
+          "t_id": 1203,
+          "name":"Amarnath Temple",
+          "text": "Amarnath Temple is a Hindu shrine located in the Pahalgam tehsil of the Anantnag district of Jammu and Kashmir, India. It is a cave situated at an altitude of 3,888 m (12,756 ft), about 168 km from Anantnag city, the district headquarters, 141 km (88 mi) from Srinagar, the summer capital of Jammu and Kashmir, reached through either Sonamarg or Pahalgam. It is an important shrine in Hinduism.",
+          "history":"The book Rajatarangini refers to Krishaanth or Amarnath. It is believed that in the 11th century CE, Queen Suryamati gifted trishulas, banalingas and other sacred emblems to this temple. Rajavalipataka, begun by Prajna Bhatta, contains detailed references to the pilgrimage to Amarnath Cave Temple. In addition, there are further references to this pilgrimage in many other ancient texts.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3299.2869131720654!2d75.50154517572342!3d34.21569177309593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e24fca96056755%3A0xdfd15d625912515e!2sShri%20Amarnath%20Cave%20Temple!5e0!3m2!1sen!2sin!4v1742472014554!5m2!1sen!2sin" ,
+          "district":"Anantnag",
+          "website":"https://jksasb.nic.in/",
+          "image":"/1203.jpg",
+          "state": "Jammu and Kashmir",
+          "country": "India"
+        },
+        {
+          "t_id": 1204,
+          "name":"Hari Parbat",
+          "text": "Hari Parbat, also called Koh-i-Maran, is a hill overlooking Srinagar, the largest city and the capital of Jammu and Kashmir, India. It is the site of the Hari Parbat fort, built by the Durrani Empire, and of a Hindu temple, mosques, and gurdwara.",
+          "history":"ari Parbat is also known as Kooh-e-Maran lies on the west of Dal Lake in Srinagar, in the UT of Jammu & Kashmir. This Mughal structure was built by an Afghan Governor Atta Mohammed Khan in 18th century. Later a long wall was constructed in 1590 by Emperor Akbar. Surrounded by commendable structures from all religions, this fort sits at the top giving a spectacular view of Dal Lake.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.5836013864196!2d74.81392997571879!3d34.10580617313677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e185726f612dbd%3A0x3ab1516f0503ffb6!2sHari%20Parbat!5e0!3m2!1sen!2sin!4v1742472208034!5m2!1sen!2sin" ,
+          "district":"Srinagar",
+          "website":"https://srinagar.nic.in/tourist-place/hari-parbat-fort/#:~:text=Hari%20Parbat%20is%20also%20known,in%201590%20by%20Emperor%20Akbar.",
+          "image":"/1204.jpg",
+          "state": "Jammu and Kashmir",
+          "country": "India"
+        },
+        {
+          "t_id": 1205,
+          "name":"Kheer Bhawani Temple",
+          "text": "Kheer Bhawani, Ksheer Bhawani or the Ragnya Devi temple[a] is a Hindu temple situated at a distance of 25 kilometres (16 mi) north-east of Srinagar, Jammu and Kashmir, India, in the village of Tulmulla in Ganderbal. It is dedicated to the Hindu goddess Kheer Bhavani constructed over a sacred spring. As is the custom with Hindu deities, the goddess has many names including Ragnya or Rajna, along with variations in honorifics such as Devi, Mata or Bhagavati. The term kheer refers to a milk and rice pudding that is offered to propitiate the goddess. Kheer Bhawani is sometimes translated as 'Milk Goddess'. The worship of Kheer Bhawani is universal among the Hindu Kashmiris, most of them who worship her as their protective patron deity Kuladevi.",
+          "history":"The mention of Kheer Bhawani is found in Kalhana's Rajtarangini. Kalhana writes that the sacred spring of Tula Mula is situated in a marshy ground. Thousands of years ago, floods inundated the spring and temple. Kashmir's Yogi Krishna Pandit Taploo of Bohri Kadal, Srinagar had a dream in which the Goddess appeared to him and directed him to the location of the holy spring. It is also mentioned in the Bhrigu Samhita.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3299.083202451937!2d74.72820577572372!3d34.220893873093964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e19da6fe2d0dfb%3A0xcbd5d2afee07de5d!2sSri%20Kheer%20Bhawani%20Durga%20Temple!5e0!3m2!1sen!2sin!4v1742472434789!5m2!1sen!2sin" ,
+          "district":"Ganderbal ",
+          "website":"https://ganderbal.nic.in/tourist-place/kheer-bhawani-temple/",
+          "image":"/1205.jpg",
+          "state": "Jammu and Kashmir",
+          "country": "India"
+        },
+        {
+          "t_id": 1206,
+          "name":"Martand Sun Temple",
+          "text": "Martand Sun Temple is a Hindu temple located near the city of Anantnag in the Kashmir Valley of Jammu and Kashmir (union territory), India. It dates back to the eighth century CE and was dedicated to Surya, the chief solar deity in Hinduism; Surya is also known by the Sanskrit-language synonym Martand (मार्तण्ड, Mārtaṇḍa). The temple was destroyed by Sikandar Shah Miri.",
+          "history":"According to Kalhana, the Martand Sun Temple was commissioned by Lalitaditya Muktapida in the eighth century CE.According to Jonaraja (fl. 1430) as well as Hasan Ali, the temple was destroyed by Sikandar Shah Miri (1389-1413) in a zeal to Islamise the society under the advice of Sufi preacher Mir Muhammad Hamadani; Jonaraja pinned the blame on his chief-counsel Suhabhatta, A Brahman neo-convert who was held to have manifested a reign of intense persecution for the local Hindus whereas Ali particularly affirmed Sikandar's own convictions in these aspects.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13269.098646413695!2d75.20535190910742!3d33.75356767233105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e21029a5f074a5%3A0xe2b002f95f1a2b27!2sAncient%20Martand%20Surya%20Temple!5e0!3m2!1sen!2sin!4v1742472704970!5m2!1sen!2sin",
+          "district":"Anantnag",
+          "website":"https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag/martand-sun-temple",
+          "image":"/1206.jpg",
+          "state": "Jammu and Kashmir",
+          "country": "India"
+        },
+        {
+          "t_id": 1207,
+          "name":"Shankaracharya Temple",
+          "text": "Shankaracharya Temple or Jyeshteshwara Temple is a Hindu temple situated on top of the Zabarwan Range in Srinagar in the union territory of Jammu and Kashmir. It is dedicated to Shiva. The temple is at a height of 1,000 feet (300 m) above the valley floor and overlooks the city of Srinagar. The temple is accessible via a road that emerges off Boulevard road near Gagribal.",
+          "history":"The structure is considered as the oldest temple in Kashmir, historically and traditionally. It is situated on a hill that is a well preserved Panjal trap formed by volcanic activity during the Permian period. There is no consensus with regard to an exact date of construction. The earliest historical reference to the hill comes from Kalhana. He called the mountain 'Gopadri' or 'Gopa Hill'. Kalhana says that King Gopaditya granted the land at the foot of the hill to the Brahmins that had come from the 'Aryadesa'. The land grant, an agraharam, was called 'Gopa Agraharas'. This area at the base is now called Gupkar. Kalhana mentions another village in the vicinity of the hill where King Gopaditya housed some of the Brahmins to a village next door in present-day Dalgate. Kalhana also mentions that King Gopaditya built the temple on the top of the hill as a shrine to Jyesthesvara (Shiva Jyestharuda) around 371 BCE.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.63297135836!2d74.84114917571765!3d34.07892177314688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e18f6f3f8716df%3A0x778e120d6489acda!2sShri%20Adi%20Shankaracharya%20Temple%2C%20Srinagar!5e0!3m2!1sen!2sin!4v1742472876294!5m2!1sen!2sin" ,
+          "district":"Srinagar",
+          "website":"https://www.jktdc.co.in/info.aspx?id=91",
+          "image":"/1207.jpg",
+          "state": "Jammu and Kashmir",
+          "country": "India"
+        }
+      ]
+    },
+
     { "id": 13, "name": "Jharkhand" },
     { "id": 14, "name": "Karnataka" },
     { "id": 15, "name": "Kerala" },
     { "id": 16, "name": "Madhya Pradesh" },
     { "id": 17, "name": "Maharashtra" },
-    
+
     { 
       "id": 18, 
       "name": "Manipur",
