@@ -1585,7 +1585,120 @@
       ]
     },
 
-    { "id": 11, "name": "Himachal Pradesh" },
+    { 
+      "id": 11, 
+      "name": "Himachal Pradesh",
+      "temples":[
+        {
+          "t_id": 1101,
+          "name":"Aadi Himani Chamunda",
+          "text": "Aadi Himani Chamunda is a Hindu temple dedicated to Shri Chamunda Devi, situated in Chandar Bhan, Jia in Kangra Valley, Himachal Pradesh, India, in the Himalayas.",
+          "history":"The temple stands close to the ruins of the palace of Raja Chandar Bhan Chand Katoch (d. 1660), and is of least the same age, if not far older. Until 1992 the temple was also derelict but has been restored, in very large measure as a result of the dedication and hard work of one man, Mr. P. D. Saini, a retired Class 1 officer, who worked on its restoration for 20 years after his retirement, with the assistance of a group of devotees. He continues (as of 2013) to devote himself to the improvement of the temple even after its administration was taken on by the government.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3376.4282156470817!2d76.4480457756387!3d32.19269017391336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b53d5d40f27a9%3A0xbb6c0a583f75179a!2sAadi%20Himani%20Chamunda%20Devi%20temple!5e0!3m2!1sen!2sin!4v1742538232567!5m2!1sen!2sin" ,
+          "district":"Kangra",
+          "website":"https://tourtripmart.com/aadi-himani-chamunda-trek.html",
+          "image":"/1101.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1102,
+          "name":"Baba Balak Nath",
+          "text": "Baba Balak Nath is a Hindu deity, who is worshiped in the North-Indian state of Himachal Pradesh and Punjab. Their main temple, known as Deotsidh, is in a cave on the hilltop of Chakmoh village in Hamirpur, Himachal Pradesh.",
+          "history":"Baba Balak Nath was born in the house of a Gaur Brahmin at Girnar Parbat, a famous place of pilgrimage for the sect of fakirs in Kathiawar. Baba Balak Nath, Deotsidh is very popular deity in the north region of India specially Himachal Pradesh, Punjab, Delhi & Haryana. Every year in Chaitra māsa people come from different states and even from abroad such as Canada, UK, USA to the main temple situated in Deot Sidh, Himachal Pradesh seeking blessing from the deity. It is said that who so ever visit the temple at this time gets all wishes fulfilled by Lord.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3403.5480885469638!2d76.54089237560895!3d31.454105874244377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391ad8c1fab11235%3A0xe1f8d94b33842aad!2sSidh%20Baba%20Balak%20Nath%20Cave%20Temple!5e0!3m2!1sen!2sin!4v1742538539805!5m2!1sen!2sin" ,
+          "district":"Hamirpur",
+          "website":"https://bababalaknathtemple.com/history-and-mythology/",
+          "image":"/1102.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1103,
+          "name":"Baijnath Temple",
+          "text": "Baijnath Temple is a Nagara style Hindu temple situated in a small town of Baijnath located in Kangra District, Himachal Pradesh, India, and was built in 1204 AD by two local merchants named Ahuka and Manyuka. It is dedicated to Shiva as Vaidyanath, meaning 'the lord of physicians'. The temple is protected and conserved by the Archaeological Survey of India (ASI).",
+          "history":"According to the inscriptions on the present day Baijnath temple structure, a temple of Shiva had existed before construction of present-day structure. The inner sanctum houses a Shiva lingam. Further images are carved in the walls and in niches on the exterior.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.683114041484!2d76.6432788745816!3d32.05076772074775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390492fe4d690f5d%3A0x6a9b130a4818b1cc!2sShiv%20Temple%20Baijnath!5e0!3m2!1sen!2sin!4v1742538933892!5m2!1sen!2sin" ,
+          "district":"Kangra",
+          "website":"https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra/baijnath-temple",
+          "image":"/1103.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1104,
+          "name":"Bajreshwari Mata Temple, Kangra",
+          "text": "Shree Bajreshwari Mata Temple also known as Kangra Devi Mandir is a Hindu temple, one of the 51 Shakti Pithas dedicated to the goddess Vajreshvari, a form of Goddess Durga located in the town Kangra in the Northern Indian state of Himachal Pradesh. The temple complex has several smaller temples dedicated to other Hindu deities. There is also a temple of Bhairava here. The temple is particularly famous for its Navratri festival, which is celebrated twice a year.",
+          "history":"The original temple is said to have been built by the Pandavas at the time of Mahabharatha. Legend says that one day Pandavas saw Goddess Durga in their dream in which she told them that she is situated in the Nagarkot village and if they want themselves to be secure they should make a temple for her in that area otherwise they will be destroyed. That same night they made a magnificent temple for her in the Nagarkot village. In 1905 the temple was destroyed by a powerful earthquake and was subsequently rebuilt by the government.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3379.791146159211!2d76.26732237563498!3d32.101929873953004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b457fed85cf17%3A0xb7eeb9f8c52f9e16!2sShaktipeeth%20Shri%20Vajreshwari%20Devi%20Temple%2C%20Kangra!5e0!3m2!1sen!2sin!4v1742539318749!5m2!1sen!2sin",
+          "district":"Kangra",
+          "website":"https://www.kangraonline.in/guide/mata-bajreshwari-devi-temple-in-kangra",
+          "image":"/1104.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1105,
+          "name":"Bijli Mahadev",
+          "text": "Bijli Mahadev temple is a located in Kashawri village, Kullu Valley, Himachal Pradesh, India. It is located at an altitude of about 2,460 meters. The temple is one of the ancient temples in India and is dedicated to a major deity in Hinduism, god Shiva.",
+          "history":"As per Hindu legend, the Bijli Mahadev temple was built as a way to pay homage to lord Shiva after he defeated the asura (demon) named Jalandhara with his trident and saved the Kullu valley from being submerged. The temple has been in existence from ancient times, per the local inhabitants. A different version of the legend also exists, which says that lord Shiva had killed an asura named Kulanta who reached Kully from the Mathan village in Lahaul-Spiti. Kulanta took the form of a giant serpent and wanted to submerge all forms of life on the planet under water. Shiva defeated the demon and rescued the people.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3386.3834915565744!2d77.14778657562778!3d31.923344174032028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3904f7aa5c91a845%3A0xaf014d601fe8a5c9!2sBijlimahadev%20temple!5e0!3m2!1sen!2sin!4v1742539551162!5m2!1sen!2sin",
+          "district":"Kullu",
+          "website":"https://www.tripoto.com/manali/places-to-visit/bijli-mahadev-temple",
+          "image":"/1105.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1106,
+          "name":"Hidimba Devi Temple",
+          "text": "Hidimba Devi Temple, locally known as Dhungari Temple, also known variously as the Hadimba Temple, is a Hindu Temple, located in Manāli, a hill station in the State of Himāchal Pradesh in north India. It is an ancient cave temple dedicated to Hidimbi Devi, wife of Bhima, a figure in the Indian epic Mahābhārata. The temple is surrounded by a cedar forest called Dhungiri Van Vihar at the foot of the Himālayas. The sanctuary is built over a huge rock jutting out of the ground which was worshiped as an image of the deity. The structure was built in 1553 by Maharaja Bahadur Singh.",
+          "history":"The Hidimba Devi temple was built in 1553 CE by Maharaja Bahadur Singh.[3] The temple is built around a cave where Devi Hidimba performed meditation. Hidimbi was supposed to have lived there with her brother Hidimb, and not much is known about their parents. Born into a Rakshasa family, Hidimba vowed to marry one who would defeat her brother Hidimb, who was supposed to be very brave and fearless. During the Pandava's exile, when they visited Manali, Bhima, one of the five Pandavas defeated Hidimb. Thereafter, Hidimba married Bhima and gave birth to their son Ghatotkacha.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3374.3615715394963!2d77.17899777564095!3d32.24835257388903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39048806c068e53d%3A0x2daa244b3eee879c!2sHadimba%20Devi%20Temple!5e0!3m2!1sen!2sin!4v1742539762711!5m2!1sen!2sin" ,
+          "district":"Kullu",
+          "website":"https://medium.com/@Soulveda/the-strange-story-of-manalis-hidimba-devi-temple-62fb296836a7",
+          "image":"/1106.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1107,
+          "name":"Manimahesh Kailash Peak",
+          "text": "The Manimahesh Kailash Peak, 5,653 metres (18,547 ft), also known as Chamba Kailash, which stands towering high over the Manimahesh Lake, is believed to be the abode of Lord Shiva, the Hindu deity. It is located in the Bharmour subdivision of the Chamba district in the Indian state of Himachal Pradesh. It is the fifth most important peak among the group of five separate peaks in Himalayas in separate locations collectively known as the Panch Kailash or 'Five Kailashas', other being Mount Kailash in first place, Adi Kailash in second, Shikhar Kailash (Shrikhand Mahadev Kailash) in third, and Kinnaur Kailash in fourth place in terms of importance. The peak is 26 kilometres (16 mi) from Bharmour in the Budhil valley. It is one of the major pilgrimage sites as well as a popular trekking destination in Himachal Pradesh. The Manimahesh Lake is at the base of the Kailash peak at 3,950 metres (12,960 ft) and is also held in deep veneration by people of Himachal Pradesh, particularly the Gaddi tribe of the region. In the month of Bhadon, on the eighth day of the new moon period a fair is held in the precincts of the lake that attracts thousands of pilgrims",
+          "history":"It is believed that Lord Shiva created Manimahesh after marrying Goddess Parvati, also known as Mata Girija.  Despite numerous attempts, no one has successfully summited Manimahesh Kailash, leading to its reputation as an invincible peak. Legend tells of a shepherd (Gaddi) who attempted the climb with his flock but was turned to stone for his audacity. The smaller peaks surrounding the main summit are said to be the remnants of this shepherd and his sheep. ",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26949.223242186923!2d76.64856739800621!3d32.40166482462318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39035848b96bca97%3A0xb117535d3d34b056!2sManimahesh%20Kailash%20Peak!5e0!3m2!1sen!2sin!4v1742540106677!5m2!1sen!2sin" ,
+          "district":"Chamba district ",
+          "website":"https://hpchamba.nic.in/manimahesh-yatra/",
+          "image":"/1107.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1108,
+          "name":"Masrur Temples",
+          "text": "The Masrur Temples, also referred to as Masroor Temples or Rock-cut Temples at Masrur, is an early 8th-century complex of rock-cut Hindu temples in the Kangra Valley of Beas River in Himachal Pradesh, India. The temples face northeast, towards the Dhauladhar range of the Himalayas. They are a version of North Indian Nagara architecture style, dedicated to Shiva, Vishnu, Devi and Saura traditions of Hinduism, with its surviving iconography likely inspired by a henotheistic framework.",
+          "history":"The period between 12th and 19th century was largely of religious wars and geo-political instability across the Indian subcontinent, and the literature of this era do not mention Masrur temples or present any scholarly studies on any Hindu, Jain or Buddhist temples for that matter, rather they mention iconoclasm and temple destruction. After the 12th century, first northwestern Indian subcontinent, then India, in general, witnessed a series of plunder raids and attacks of Turko-Afghan sultans led Muslim armies seeking wealth, geopolitical power and the spread of Islam. Successive Muslim dynasties controlled the Delhi Sultanate as waves of wars, rebellions, secessions, and brutal counter-conquests gripped Indian regions including those in and around Kashmir. The Mughal Empire replaced the Delhi Sultanate in early 16th-century. The Mughal dynasty ruled much of the Indian subcontinent through early 18th-century, and parts of it nominally through the 19th century. The Kangra valley region with Masrur in the Himalayas was ruled by smaller jagirdars and feudatory Hill Rajas who paid tribute to the Mughal administration for many centuries. The arrival of the colonial era marked another seismic shift in the region's politics. By the late 19th century, British India officials had begun archeological surveys, documented sites and charted out site plans. The first known visits to study the Masrur temples occurred in 1887.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1731005.4720653505!2d73.83014499375!3d32.072763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b43b22d895a9d%3A0x78c1bd87f3285412!2sMasroor%20Rock-cut%20Temple!5e0!3m2!1sen!2sin!4v1742570928247!5m2!1sen!2sin" ,
+          "district":"Kangra",
+          "website":"https://hpkangra.nic.in/tourist-place/masroor-temple/",
+          "image":"/1108.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        },
+        {
+          "t_id": 1109,
+          "name":"Trilokpur temple",
+          "text": "Trilokpur is a Hindu temple site in Himachal Pradesh, India. It is located on an hillock about 24 km south-west of Nahan at an elevation of about 430 m. The temple is an amalgam of Indo-Persian styles of architecture. The name Trilok Pur means a triangle of three Shakti Temples in the area. Each temple depicts a different face of the Goddess Durga.",
+          "history":"In 1570 CE, according to legend, a pindi appeared in a bag of salt, purchased by Sh Ram Dass. a local trader. It meant that Maa Balasundari Jee had appeared in the bag. Dass kept selling salt all day from the bag, but it always remained full. The goddess then appeared in Dass' dream. She told him how she had disappeared from Devban and instructed him to build a Temple at Trilok Pur to establish her PINDI Swaroop. She instructed Dass also directed to worship in the name of Mahamaya Balasundari - an infant state of Goddess Vaishno Devi . Dass did not have enough money to build a temple, so he approached the ruler of Sirmour state for funding. After getting the money, Dass started building the temple.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3436.3154695878325!2d77.20574497557291!3d30.540389874677608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390f0a1cfba60ea7%3A0x12cb18e3ab8ff3df!2sSri%20MahaMaya%20Bala%20Sundari%20Temple%2C%20Trilokpur!5e0!3m2!1sen!2sin!4v1742571414453!5m2!1sen!2sin",
+          "district":"sirmour",
+          "website":"https://himachalecotourism.in/trilokpur",
+          "image":"/1109.jpg",
+          "state": "Himachal Pradesh",
+          "country": "India"
+        }
+      ]
+    },
 
     { 
       "id": 12, 
