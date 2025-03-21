@@ -1469,7 +1469,122 @@
     },
 
     { "id": 9, "name": "Gujarat" },
-    { "id": 10, "name": "Haryana" },
+
+    { 
+      "id": 10, 
+      "name": "Haryana",
+      "temples":[
+        {
+          "t_id": 1001,
+          "name":"Agroha Dham",
+          "text": "Agroha is a Hindu temple complex in Agroha of Hisar District, Haryana, India. Construction started in 1976 and was completed in 1984. The temple is dedicated to the Hindu goddess Mahalakshmi.",
+          "history":"Agroha is the historical place where the Agrawal community originated in antiquity. in 1194, Agroha was captured by Ghori and the settlement at Agroha declined, and people settled in nearby Hansi, Hissar, Delhi and places further away. Agroha became desolate. in 1907, an ascetic Brahmananda Brahmachari arrive a Agroha. He organized a group named Agrawal Darbar in 1908 by inspiring the Agrawal community representatives (Panchayat). A gaushala, a shiva temple, and 18 sati shrines were established. Marwari Agrawals of Calcutta such as Tarachand Ghanshyamdas supported the project.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3478.3061731643406!2d75.62285437552673!3d29.332021575290018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3913d5d38e8c13a3%3A0x49f1e882dbe9eabe!2sAgroha%20Dham!5e0!3m2!1sen!2sin!4v1742525212796!5m2!1sen!2sin",
+          "district":"Hisar",
+          "website":"https://agrohadham.com/en/about/",
+          "image":"/1001.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1002,
+          "name":"Bhuteshwar Temple",
+          "text": "Bhuteshwar Temple is a Hindu temple in Jind, Haryana, in the series of 48 kos parikrama of Kurukshetra, dedicated to Bhuteshwar, a manifestation of Shiva. It was built by Raghbir Singh. Because it has a large water tank all around it is also called Rani Talab (meaning Queen Pond).",
+          "history":"Constructed by Raghbir Singh, this temple is dedicated to Bhuteshwar, a manifestation of Lord Shiva. ​",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7124818.451235232!2d67.09004047500002!3d29.31416130000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391204559e97d349%3A0x79b637b36dcc7008!2sBhuteshwar%20Shivji%20Temple!5e0!3m2!1sen!2sin!4v1742526798653!5m2!1sen!2sin" ,
+          "district":"Jind",
+          "website":"https://faujitoursandtravels.com/bhuteshwar-mahadev/",
+          "image":"/1002.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1003,
+          "name":"Brahma Sarovar",
+          "text": "Brahma Sarovar is a man-made tank in Kurukshetra, in the state of Haryana, India. It is 3600 feet long, 1500 feet wide, and 45 feet deep. Hinduism lays emphasis on taking bath for internal and external purity. Most religious sites have water pools or sarovar in or near the Hindu temple and Sikh gurdwara. The Hindu genealogy registers at Kurukshetra, Haryana are kept here.",
+          "history":"According to stories of itihasa, Brahma created the universe from the land of Kurukshetra after a huge yajna with the help of Hitesh. The Brahma Sarovar here is believed to be the cradle of civilization. The sarovar is also mentioned in the 11th century CE memoirs of Al Beruni, called 'Kitab-ul-Hind'. The sarovar also has a mention in Mahabharata citing its use by Duryodhana to hide himself underwater on the concluding day of the war. At that time it was believed Dharam was the guard of Brahma Sarovar and the lordess. It is believed that lordess Taniya is still alive and living near Brahma Sarovar. It is believed if someone brings red bangles for the lordess , she fulfills their wishes.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13826.519833114213!2d76.81709770664963!3d29.961320749445374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390e47561347a22f%3A0xa876bcd8e59eb52e!2sBrahma%20Sarovar!5e0!3m2!1sen!2sin!4v1742530858345!5m2!1sen!2sin" ,
+          "district":"Kurukshetra",
+          "website":"https://haryana.gov.in/places-centres/braham-sarovar-kurukshetra/",
+          "image":"/1003.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1004,
+          "name":"Jyotisar",
+          "text": "Jyotisar, on the bank of Jyotisar Sarovar wetland, is a Hindu pilgrimage site in the city of Kurukshetra in Haryana state of India. According to Hindu tradition, Krishna delivered the sermon of Bhagavad Gita - the doctrine of Karma and Dharma to his wavering friend Arjuna to guide him to resolve his ethical dilemma and revealed his vishvarupa (universal form) to him.",
+          "history":"According to Hindu tradition, during the Mahabharata war, Arjuna faced a moral dilemma about fighting in the battle. At this juncture, Lord Krishna imparted the teachings of the Bhagavad Gita to him at Jyotisar, under a sacred banyan tree known as the Akshaya Vat. This site is thus revered as the 'Gitopadesha Sthala' or the place where the Gita was spoken. ​",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13826.394168135268!2d76.75948510665017!3d29.96222409943806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390e3925185ef7d3%3A0x68255f700d296a8!2sJyotisar%2C%20Josar%2C%20Haryana%20136119!5e0!3m2!1sen!2sin!4v1742531070935!5m2!1sen!2sin",
+          "district":"Kurukshetra",
+          "website":"https://haryanatourism.gov.in/places_of_interest/jyotisar/",
+          "image":"/1004.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1005,
+          "name":"Kartikeya Temple, Pehowa",
+          "text": "Kartikeya Temple is a Hindu temple in Pehowa township of the North Indian state of Haryana is one of the oldest Karthikeya temple in North India. Kartikeya is a popular Hindu deity in India and is worshiped across the length and breadth of the country. Like most Hindu deities, He is known by many other names, including Murugan, Senthil, Saravaṇa, Arumugam or Shanmukha (meaning 'one with six faces'), Kumāra (meaning 'child or son'), Guha, Skanda (meaning 'that which is spilled or oozed, namely seed' in Sanskrit).",
+          "history":"The temple's origins trace back to the 5th century B.C., making it a significant site for devotees of Lord Kartikeya. Historically, Lord Kartikeya has been revered across various regions, including the Punjab area, as evidenced by his depiction on ancient coins from the Yaudheyas, a warrior clan that once controlled this region over 2,200 years ago. ",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.9439360395286!2d76.57695287555133!3d29.981041174955532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390e25b1660a7d6f%3A0xfa2cec57bf7f9cc!2sShri%20Karthikeya%20Temple%2C%20Pehowa!5e0!3m2!1sen!2sin!4v1742535463229!5m2!1sen!2sin" ,
+          "district":"Kurukshetra",
+          "website":"https://www.tribuneindia.com/news/archive/haryana-tribune/a-pehowa-temple-with-a-difference-642346/",
+          "image":"/1005.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1006,
+          "name":"Mata Mansa Devi Mandir",
+          "text": "Mata Mansa Devi is a Hindu temple dedicated to goddess Mansa Devi, a form of Shakti, in the Panchkula district of the Indian state of Haryana. The temple complex is spread of 100 acres (0.40 km2) of the Shivalik foothills in the village of Bilaspur, near Sector 13 (earlier known as Mani Majra) of Chandigarh, and Panchkula, 10 km from Chandi Mandir, another noted Devi shrine in the region, both just outside Chandigarh.",
+          "history":"There are 3 temples in the complex and the main temple is the oldest. Maharaja Gopal Das Singh of Mani Majra, who was enthroned in 1783, constructed the present main temple of Shri Mansa Devi, which is situated on the Shivalik foothills in the village Bilaspur, Tehsil and District Panchkula, during the period 1811–1815. At a distance of 200 meters from the main temple is the Patiala Shivalaya temple which was constructed by Karam Singh, a Jat Sikh, the then Maharaja of Patiala in the year 1840. This temple had the patronage of Manimajra Princely State.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109733.38228201406!2d76.73605682745094!3d30.74177661744513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390f931b6aaaaaab%3A0x7d68fa0560ac0d32!2sShri%20Mata%20Mansa%20Devi%20Temple%2C%20Panchkula!5e0!3m2!1sen!2sin!4v1742535763203!5m2!1sen!2sin" ,
+          "district":"Panchkula",
+          "website":"https://www.mansadevi.org.in/",
+          "image":"/1006.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1007,
+          "name":"Pindara Temple",
+          "text": "Pindara or Pandu Pindara Temple is situated at Pindara village about 6.5 km from Jind, Haryana, India.",
+          "history":"According to a legend, the Pandavas offered here pinds to their forefathers and hence the name of the village is Pandu Pindara. A fair is held on Somavati Amavas. This place is also called Som Tirath.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3479.0838731466183!2d76.36296037552589!3d29.30921527530201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39120737b37313cd%3A0xfcd9c61b7120723f!2sPandu%20Pindara!5e0!3m2!1sen!2sin!4v1742537130068!5m2!1sen!2sin" ,
+          "district":"Jind",
+          "website":"https://www.hindudevotionalblog.com/2016/11/pindara-temple-jind-haryana.html",
+          "image":"/1007.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1008,
+          "name":"Sannihit Sarovar",
+          "text": "Sannihit Sarovar is a sacred water reservoir in the Kurukshetra district of Haryana, India. It is believed to be the meeting point of seven sacred Sarasvatis.[1] The sarovar, according to popular belief, contains sacred water. Bathing in the sacred waters of the tank on the day of Amavasya (night of complete darkness), or on the day of an eclipse is believed to bestow blessings equivalent to performing the ashvamedh yajna.",
+          "history":"The sarovar, an important part of 48 Kos Parikrama of Kurukshetra, is believed to be the meeting point of seven sacred Saraswatis (see also Sapta Sindhu). The Sarovar, according to popular belief, contains sacred water. Bathing in the waters of the tank on the day of Amavasya (night of complete darkness) or on the day of an eclipse bestows blessings equivalent to performing the Ashvamedha Yajna.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1728.2258344877805!2d76.83465063872416!3d29.96644699374076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390e475073130de3%3A0xb4bc61be3a81b94!2sSannihit%20Sarovar!5e0!3m2!1sen!2sin!4v1742537295157!5m2!1sen!2sin" ,
+          "district":"Kurukshetra",
+          "website":"https://haryanatourism.gov.in/places_of_interest/sannihit-sarovar/",
+          "image":"/1008.jpg",
+          "state": "Haryana",
+          "country": "India"
+        },
+        {
+          "t_id": 1009,
+          "name":"Sthaneshwar Mahadev Temple",
+          "text": "The ancient Sthaneshwar Mahadev Temple, dedicated to Shiva is situated in old Kurukshetra city Kurukshetra district of Haryana, India. It was here that the Pandavas along with Krishna are said to have prayed to Shiva and to have received his blessings for victory in the battle of Mahabharata. The ninth Guru, Shri Tegh Bahadur stayed at a spot near the Sthaneshwar Tirtha that is marked by a gurdwara just beside the temple.",
+          "history":"The temple is dedicated to Shiva, the presiding deity of the ancient city of Sthaneshwar presently known as Thanesar city or Kurukshetra city. Pushpabhuti, the founder of the Vardhana Empire of Thanesar named the capital of his kingdom after Sthaneshwar Shiva. The existing temple was constructed by Raghunath Rao Peshwa.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.930497059816!2d76.82537187555135!3d29.981427374955437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390e4761bb6e713d%3A0xe0b49073a9757548!2sShri%20Sthaneshwar%20Mahadev%20Temple%2C%20Thanesar!5e0!3m2!1sen!2sin!4v1742537480728!5m2!1sen!2sin",
+          "district":"Kurukshetra",
+          "website":"https://haryanatourism.gov.in/places_of_interest/sthaneshwara-mahadev-temple/",
+          "image":"/1009.jpg",
+          "state": "Haryana",
+          "country": "India"
+        }
+      ]
+    },
+
     { "id": 11, "name": "Himachal Pradesh" },
 
     { 
@@ -1563,7 +1678,145 @@
       ]
     },
 
-    { "id": 13, "name": "Jharkhand" },
+    { 
+      "id": 13, 
+      "name": "Jharkhand",
+      "temples":[
+        {
+          "t_id": 1301,
+          "name":"Baidyanath Temple",
+          "text": "Baidyanath Temple (IAST: Baidyãnath), also known as Baba Baidyanath Dham, is a Hindu temple dedicated to Shiva. It is located in Deoghar, in the Santhal Parganas division of the Indian state of Jharkhand.[1] The temple complex comprises the central shrine of Baba Baidyanath along with 21 additional temples. It is significant to the Hindu sects of Shaivism as this temple is referred to as one of the twelve Jyotirlingas.",
+          "history":"According to Shiv Mahapuran, once Brahma (the Hindu God of creation) and Vishnu (the Hindu God of preservation) had an argument in terms of supremacy of creation.[4] To test them, Shiva pierced the three worlds as a huge endless pillar of light, the jyotirlinga. Vishnu and Brahma split their way downwards and upwards respectively to find the end of the light in either direction. Brahma lied that he found out the end, while Vishnu conceded his defeat. Shiva appeared as the second pillar of light and cursed Brahma, that he would have no place in ceremonies while Vishnu would be worshipped until the end of eternity. The jyotirlinga is the supreme partless reality, out of which Shiva partly appears. The jyotirlinga shrines, thus are places where Shiva appeared as a fiery column of light.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7261.685150743617!2d86.69098579274323!3d24.490910812689407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f1162b1519c019%3A0xdb8ce9bf0b62d036!2sShree%20Baba%20Baidyanath%20Jyotirlinga%20Mandir%20Deoghar!5e0!3m2!1sen!2sin!4v1742482258323!5m2!1sen!2sin" ,
+          "district":"Deoghar",
+          "website":"https://babadham.org/",
+          "image":"/1301.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1302,
+          "name":"Bindudham",
+          "text": "Bindudham, also known as Binduwasni Mandir, is a Hindu Temple, is located at Barharwa in Sahibganj District of Indian state Jharkhand and dedicated to the Maha Durga (Kali), Maha Lakshmi and Maha Saraswati (Tridevi) in the form of Shaktipeeth. Binduwasni Mandir is at the top of the 'Binduwasni hill'. The main temple has a statue of the Hindu god Surya (Sun). He is seated in a Seven horsed Rath (an old Indian royal horse cart). In another part of Binduwasni hill, a large 35-foot statue of Hanuman stands, where people can see his sacred foot prints.",
+          "history":"Bindudham temple is an ancient temple, but with the elapse of time, it became unpopular. Swami Hariharanand Giri, popularly known as Pahari Baba, realised this ancient temple's importance. It is thanks to the work and direction of Pahari Baba that Bindudham, Barharwa has again gained its great prosperity and heritage. Binduwasni Temple (the temple of Tridevi) is related to the story of Goddess Sati.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7347959.264578846!2d74.64350700127424!3d25.939468871191863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fa6216237a5627%3A0xf772da18240cee2f!2sMaa%20Binduwasini%20Mandir!5e0!3m2!1sen!2sin!4v1742483065806!5m2!1sen!2sin" ,
+          "district":"Sahebganj",
+          "website":"https://www.nativeplanet.com/travel-guide/bindudham-jharkhand-history-timings-how-reach-005310.html",
+          "image":"/1302.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1303,
+          "name":"Chhinnamasta Temple",
+          "text": "Chhinnamastika Temple is a Hindu temple, dedicated to Goddess Chinnamasta is a Hindu pilgrimage centre located in Rajrappa, in Ramgarh district of Jharkhand, India. The place attracts devotees from all parts of Jharkhand, and also from the neighbouring states of West Bengal and Bihar. The Chhinnamasta temple is popular for its Tantric style of architectural design. Apart from the main temple, there are ten temples of various deities such as the Surya, Hanuman and Shiva.",
+          "history":"It was this place where the Raja of Ramgarh Raj gave 3 acres of land to the people in the Bhudhan Movement in Jharkhand.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.2197899658595!2d85.7082513753323!3d23.63229857875117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f45c6a1dc008f5%3A0x769bf78fb2bb3747!2sMaa%20Chinmastike%20Mandir!5e0!3m2!1sen!2sin!4v1742483453780!5m2!1sen!2sin" ,
+          "district":"Ramgarh",
+          "website":"https://www.pilgrimaide.com/blog/Chhinnamasta-Temple-Rajrappa?srsltid=AfmBOordraADId2aT2rAFXazIm04ndVmqhlRaTwFot34l97483JoU_Hm",
+          "image":"/1303.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1304,
+          "name":"Gayatri Gyan Mandir, Mahuda",
+          "text": "Gayatri Gyan Mandir is a Hindu temple located at Washery Colony, near Mahuda Junction railway station, Mahuda, Dhanbad, Jharkhand, India. Here the goddess Gayatri is worshipped. It is a temple located in Baghmara census town in Dhanbad. The temple campus is located near Mahuda Bazaar. Mahadeo Mandir is also nearest to it.",
+          "history":"Situated within the Baghmara census town in Dhanbad, the temple complex is in close proximity to Mahuda Bazaar, making it accessible to both locals and visitors. Nearby, the Mahadeo Mandir adds to the area's spiritual ambiance. While specific historical details about the temple's establishment are limited, its presence in the region underscores the cultural and religious significance of Goddess Gayatri among the local populace. The temple serves as a center for spiritual learning and community gatherings, reflecting the rich traditions of the area.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.962237814297!2d86.2613110753359!3d23.748725978671473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6a0717997a4eb%3A0xe99c379b77f10975!2sGayatri%20Gyan%20Mandir%20%2C%20Mahuda!5e0!3m2!1sen!2sin!4v1742483741628!5m2!1sen!2sin" ,
+          "district":"Dhanbad",
+          "website":"https://www.justdial.com/Dhanbad/Gayatri-Gyan-Mandir-Near-MachiaraNear-Mahuda-Railway-Station/9999PX326-X326-171206025713-C1X4_BZDET/services?source=SHARE&amp=1",
+          "image":"/1304.jpeg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1305,
+          "name":"Harihar Dham",
+          "text": "Harihar Dham temple, commonly known as Harihar Dham located in Bagodar, Giridih, of Indian state of Jharkhand has the distinction of having Shivalinga.",
+          "history":"The temple's construction was initiated by Baba Shri Amarnath Mukhopadhyay, a resident of Shri Rampur, Kolkata. During a pilgrimage, he was drawn to the serene environment of Harihar Dham and envisioned creating a space promoting peace and spirituality. This vision led to the establishment of the temple, with its centerpiece being the towering Shivalinga. ",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3642.883127873451!2d85.81903087534587!3d24.07041987845345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4763bc22e7a4f%3A0x6c792414569f0272!2sHarihar%20Dham!5e0!3m2!1sen!2sin!4v1742486236927!5m2!1sen!2sin",
+          "district":"Giridih",
+          "website":"https://visitorvenue.com/harihar-dham-temple-in-bagodar-indias-largest-shivling/",
+          "image":"/1305.webp",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1306,
+          "name":"Jagannath Temple, Ranchi",
+          "text": "Jagannath Temple is a Hindu temple in Ranchi, Jharkhand, India's 17th-century temple dedicated to Lord Jagannath. It was built by king of Barkagarh Jagannathpur Thakur Ani Nath Shahdeo, in 1691. Completed on 25 December 1691, it is located about 10 km from the main town. The temple is on top of a small hillock. Similar to the famous Jagannath Temple in Puri, Odisha, this temple is built in the same architectural style, although it is smaller.",
+          "history":"The Jagannath Temple in Ranchi, Jharkhand, is a 17th-century Hindu temple dedicated to Lord Jagannath, an incarnation of Lord Vishnu. It was inspired by the Jagannath Temple in Puri, Odisha, and follows the Kalinga architectural style but on a smaller scale. The temple was constructed atop a small hillock, about 10 km from Ranchi city, making it a significant religious and cultural landmark.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3663.9664679492457!2d85.27905737532267!3d23.316975378968586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4e0035ace6e73%3A0x41f4e59a6d674446!2sJagannath%20Mandir!5e0!3m2!1sen!2sin!4v1742486811204!5m2!1sen!2sin" ,
+          "district":"Ranchi",
+          "website":"https://www.makemytrip.com/tripideas/attractions/jagannath-temple",
+          "image":"/1306.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1307,
+          "name":"Karneshwar Dham",
+          "text": "Karneshwar Dham, also known as Karneshwar Shiv Mandir (Karna+ eshwar; the god of Karna-lord Shiva who was also Rameshwar) is one of the ancient temples in Karon, the most sacred abodes of Shiva named after Karna, a key antagonist of the Hindu epic Mahabharata. Karneshwar is located in Karon in the Deoghar district of the state of Jharkhand, India. It is a temple complex consisting of the main temple of Baba Karneshwar, where the Shivalinga is installed, and 27 other temples.",
+          "history":"The temple's origins are intertwined with the legendary figure Karna, a central character from the Hindu epic, the Mahabharata. According to local beliefs, Karna, who ruled the region historically known as Angadesh, was a devout follower of Lord Shiva. He is credited with installing the Shivalinga at the current site of the temple to honor his deity. This association with Karna is the source of the temple's name, Karneshwar, meaning 'the god of Karna'. ",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3641.346755437717!2d86.74572017534753!3d24.124457678416988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f12d5bb3aac2df%3A0x27294d7e88b78805!2sKarneswar%20Mandir!5e0!3m2!1sen!2sin!4v1742487166702!5m2!1sen!2sin" ,
+          "district":"Deoghar",
+          "website":"https://myadhyatm.com/karneshwar-mandir-chhipalip-sihava-chhattisgarh/",
+          "image":"/1307.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1308,
+          "name":"Maa Dewri Temple",
+          "text": "Maa Dewri Temple is an ancient temple, situated in Diuri village, Tamar near Ranchi in Jharkhand in India. The main attraction of the temple is, 700 year old murti of 16-armed village deity Maa Dewri. It is an ancient temple and was renovated few years back. The ancient temple was constructed by interlocking stones without using chalk or binding material. The temple was earlier known as Dewri Diri, meaning sacred stone of Diuri village.",
+          "history":"According to a legend associated with the temple, it was built by an Adivasi king Kera. It is believed that this temple is 700 years old. It is said that this temple was established in year 1300 by King Kera, a Munda king of Singhbhum. Legends say that when the king was returning after losing from the war, he worshiped the goddess at Dewri Diri, the sacred grove (Sarna) of Diuri village. With the blessings of Maa Dewri, he got his kingdom back. Later the king built a temple here and installed the idol of the goddess with sixteen arms. The goddess was traditionally worshiped by a tribal priest, called Pahan.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.3906711350432!2d85.68031307531452!3d23.04613467915731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f5a6a9b0e7dfc5%3A0xc3e41bc84f982427!2sMaa%20Dewri%20Mandir!5e0!3m2!1sen!2sin!4v1742487432254!5m2!1sen!2sin" ,
+          "district":"Ranchi",
+          "website":"https://www.maadewrimandir.com/",
+          "image":"/1308.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1309,
+          "name":"Maluti temples",
+          "text": "Maluti temples are a group of 72 extant terracotta temples (out of the original number of 108), located in the Maluti village near Shikaripara in Dumka district on the eastern part of the Chota Nagpur Plateau, Indian state of Jharkhand. These temples, according to the Indian Trust for Rural Heritage and Development (ITRHD), were built between the 17th and 19th centuries. The kings of Baj Basanta dynasty built these temples in Maluti, their capital, inspired by goddess Mowlakshi, their family deity. Many of the temples are deified with different denominations of gods and goddesses, apart from the tutelary deity Mowlakshi, and others such as Shiva, Durga, Kali and Vishnu. The Global Heritage Fund (GHF) has proposed a conservation effort, which would increase tourism to the Maluti village. GHF has declared this site as one of the world's 12 most endangered cultural heritage sites.",
+          "history":"History of these temples is directly linked to the gift of the kingdom of Maluti, then known as 'Nankar Raj', that was granted to a Brahmin named Basanta by the Muslim ruler Alauddin Husain Shah of Gaura (1495-1525) for having saved his hawk (Baj) and returning it to him. Consequently, Basanta was given the suffix Raja and called Raja Baj Basanta. As Basanta was a religious person, he preferred building temples instead of palaces. Subsequently, his family divided into four clans and they continued to build the temples in Maluti, their capital, in clusters, inspired by goddess Mowlakshi, their family deity. The name Maluti is said to be derived from Mallahati, the Malla Kings of Bankura. The Indian Trust for Rural Heritage and Development (ITRHD), has dated the building of these temples between the 17th and 19th centuries. The Maluti temples were not known to the outside world until A.K.Sinha, Director of Archaeology, Government of Bihar, publicized them, for the first time in 1979.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14561.580224178057!2d87.66484735340794!3d24.15787415430988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fa033c43cf3951%3A0xcc9ae5c37599e4f2!2sMaluti%20Shiv%20Mondir!5e0!3m2!1sen!2sin!4v1742487714396!5m2!1sen!2sin" ,
+          "district":"Dumka",
+          "website":"https://www.maluti.org/",
+          "image":"/1309.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1310,
+          "name":"Nagar Untari",
+          "text": "Shree Banshidhar Nagar, formerly known as Nagar Untari, is one of the administrative block in Garhwa district, Jharkhand state, India. It is located 40 km towards west from District headquarters Garhwa. Shree Banshidhar Nagar is surrounded by states Uttar Pradesh, Chhattisgarh and Bihar. Ranchi is the state capital of it which is located around 212.5 km away.",
+          "history":"Shree Banshidhar Nagar (earlier named as Nagar Untari) is a Royal estate which was once ruled by the Deo Family. Bhaiya Rudra Pratap Deo was the last ruler to have ruled the place. Bhaiya Shankar pratap deo Son of Bhaiya Rudra Pratap Deo has 5 sons (Bade Raja) Raj Rajendra Pratap Deo, Dharmendra Pratap Deo, Mahendra Pratap Deo, Birender Pratap Deo and (Chote Raja) Anant Pratap Deo. Bhaiya Shankar Pratap Deo was a former minister in government of Bihar and multiple times member of legislative assembly. The family owns a magnificent Palace in the city which is very near to shree Bansidhar mandir and is a sight to view. The family still stays in the Palace and are actively involved in the state politics.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29094.573717308205!2d83.48072982900577!3d24.282956961859234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398ea40ebe163b87%3A0xac11e00dba83aac7!2sShri%20Banshidhar%20Nagar%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1742487932704!5m2!1sen!2sin" ,
+          "district":"Garhwa",
+          "website":"https://www.indianrajputs.com/view/nagar_untari",
+          "image":"/1310.jpeg",
+          "state": "Jharkhand",
+          "country": "India"
+        },
+        {
+          "t_id": 1311,
+          "name":"Sri Sri Kalika Maharani Temple",
+          "text": "Sri Sri Kalika Maharani Temple is a Hindu temple in Bokaro in the state of Jharkhand, India is a Hindu temple at Chira Chas, built by Aashiyaan Estate Developers. The temple is spread over half an acre and is dedicated to Goddess Kali. The mini township of Kalika Vihar is named after this temple.",
+          "history":"The construction of the temple began in July, 2010. It took less than 3 years to complete the entire structure. The temple was opened to public on July 14, 2012. The temple is situated at Kalika Vihar, Aashiyan Garden, Phase - 3, Chira Chas. Before the foundation was laid, a nine-day Ramayana recital was held, along with a religious 'Yagna'. On the map, the temple can be found at 23.65°N 86.17°E. The temple is famous in Jharkhand and its opening was covered by major newspapers. During excavation of the Foundation in the initial phase of construction, laborers found an Indian Cobra which is considered a good omen, symbolizing Lord Shiva. Legend has it, that Goddess Kali grants the wishes of those, who pray at this temple.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.5622717511856!2d86.17681057533306!3d23.655842278735122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f421634410d6c9%3A0x917bb8e6b1bd2b2a!2sSri%20Sri%20Kalika%20Maharani%20Temple%2C%20Bokaro!5e0!3m2!1sen!2sin!4v1742488151973!5m2!1sen!2sin" ,
+          "district":"Bokaro",
+          "website":"https://www.poojn.in/post/17146/sri-sri-kalika-maharani-temple-a-guide-to-spiritual-experience?srsltid=AfmBOorDzB6481Z0v4ID7mdsfkm78vLqQmwNLiCYlqVO50FLDtz4C88c#google_vignette",
+          "image":"/1311.jpg",
+          "state": "Jharkhand",
+          "country": "India"
+        }
+      ]
+    },
+
     { "id": 14, "name": "Karnataka" },
     { "id": 15, "name": "Kerala" },
     { "id": 16, "name": "Madhya Pradesh" },
