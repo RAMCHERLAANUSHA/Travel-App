@@ -1423,7 +1423,157 @@
         }
       ]
     },
-    { "id": 7, "name": "Delhi" },
+
+    { 
+      "id": 7,
+      "name": "Delhi",
+      "temples":[
+        {
+          "t_id": 701,
+          "name":"Swaminarayan Akshardham ",
+          "text": "Swaminarayan Akshardham is a Hindu temple and spiritual-cultural campus in Delhi, India. The temple is close to the border with Noida. Also referred to as Akshardham Temple or Akshardham Delhi, the complex displays millennia of traditional and modern Hindu culture, spirituality, and architecture. Inspired by Yogiji Maharaj and created by Pramukh Swami Maharaj, it was constructed by BAPS. It is the world's second-largest BAPS Hindu temple, following Akshardham, New Jersey, in the United States.",
+          "history":"The Akshardham temple in Delhi was inaugurated on 6 November 2005. Inspired by Yogiji Maharaj and created by Pramukh Swami Maharaj, it was constructed by the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS). The temple complex showcases millennia of traditional and modern Hindu culture, spirituality, and architecture. The central sanctum, known as the Garbhagruh, houses the murti (sacred image) of Bhagwan Swaminarayan (1781-1830 CE), to whom the mandir is dedicated. ",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7414661.116701106!2d69.68296996433394!3d24.848817638557367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce35b9975b1fb%3A0x69a09f265ef3b22a!2sAkshardham!5e0!3m2!1sen!2sin!4v1742824831322!5m2!1sen!2sin" ,
+          "district":"East Delhi",
+          "website":"https://akshardham.com/",
+          "image":"/701.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 702,
+          "name":"Chhatarpur Temple",
+          "text": "Chhatarpur Temple is a Hindu temple dedicated to the goddess Katyayani. The entire complex of the temple is spread over a wide area of 28 hectares (70 acres). It is located in Chhatarpur, on the southwestern outskirts of the New Delhi. It is the 2nd largest temple in Delhi, after the Akshardham Temple. This temple is constructed from marble and on all of the facets there is jaali work. It can be classified a vesara style of architecture.",
+          "history":"The temple's foundation is deeply intertwined with the life of its founder, Baba Sant Nagpal Ji, who was born in Karnataka on the auspicious full-moon day of the Holi festival in 1924. Orphaned at a young age, Baba Nagpal Ji dedicated his life to spirituality and the service of humanity. His humility and devotion attracted a vast following, leading to the establishment of the temple as a center for spiritual learning and worship. Following his demise in 1998, his samadhi (memorial) was constructed within the temple premises, specifically in the Shiv-Gauri Nageshwar Mandir, honoring his enduring legacy. ",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.2334552647144!2d77.17655112549612!3d28.502623075735873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d87e84a5557%3A0x8f3761f33616c31c!2sChattarpur%20Mandir!5e0!3m2!1sen!2sin!4v1742825065662!5m2!1sen!2sin",
+          "district":"South Delhi",
+          "website":"https://www.chhattarpurmandir.org/",
+          "image":"/702.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 703,
+          "name":"Chittaranjan Park Kali Mandir",
+          "text": "Chittaranjan Park Kali Mandir is a Hindu temple and Bengali community cultural center in Chittaranjan Park in New Delhi, India. Built on a small hill, it started as a Shiv temple in 1973, which still stands within the complex, the larger shrines dedicated to goddess Kali, Shiva, and Radhakrishna were added in 1984. Over the years it has remained an important centre of convergence of local Bengali community during annual Durga Puja festivities. The temple also hosted its first Durga Puja in 1977, a tradition that continues to date.",
+          "history":"It was founded in 1973, on land designated by the nascent EPDP colony, and a small temple to Shiva was consecrated on small hill at the edge of the colony. The tradition of Durga Puja started in 1977. Expansion of the devotee base enabled the construction of an imposing Kali temple in February 1984 in Bengal terracotta temple architecture. This was followed by two temples, one for Shiva and the other for Radha-Krishna. The temples was overlaid with elaborate terracotta designs around 2006-2009. The Kali Mandir is a hub of Bengali activity owing to the high density of Bengalis residing in Chittaranjan Park. Managed by the Chittaranjan Park Kali Mandir Society, it organizes a number of cultural and religious events throughout the year.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.094881899504!2d77.24487907549724!3d28.536867675717204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3d13b317e65%3A0xfd538047db7e6b90!2sChittaranjan%20Park%20Kali%20Mandir%20Society!5e0!3m2!1sen!2sin!4v1742825291888!5m2!1sen!2sin" ,
+          "district":"Chittaranjan Park",
+          "website":"https://www.tourmyindia.com/states/delhi/chittaranjan-park-kali-mandir.html",
+          "image":"/703.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 704,
+          "name":"Hanuman Temple, Connaught Place",
+          "text": "Hanuman Temple is an ancient Hindu temple in Connaught Place, New Delhi, India, and is claimed to be one of the five temples from the days of the Mahabharata in Delhi. The other four temples are the Kalkaji, a Kali temple in South Delhi containing Swayambu rock Idol, the Yogmaya Temple near Qutub Minar, the Bhairav temple near the Purana Qila and the Nili Chatri Mahadev (Shiva temple) at Nigambodh Ghat outside the walls of Old Delhi.",
+          "history":"Historically, Delhi located on the banks of the Yamuna River has been stated to be the Indraprastha city built by Pandavas of the Mahabharata epic period. Pandavas ruled from Indraprastha and Kauravas from Hastinapur as per a brokered partition of the Kuru empire. But in a dice game, Pandavas lost their Kingdom and were exiled for a 12-year term and in the 13th year must remain in hiding. Mythological legend states that during the Pandavas' exile (imposed by their cousin Duryodhana of the Kaurava dynasty), in order to subdue Bhima’s (second of the five Pandava brothers) arrogance, Hanuman considered to be the brother of Bhima (both Vayu's children, appeared in the forest disguised as a weak and aged monkey. Bhima, while in search of a fragrant flower sought by Draupadi in the forest, found Hanuman lying with his tail blocking his way and, unaware of Hanuman's identity, scornfully asked him to remove his tail. But Hanuman told Bhima to lift the tail since being old he was unable to do it on his own. Bhima tried hard several times but failed to lift it, in spite of being a man of great strength. Bhima then realized that the monkey was none other than his own brother, apologizes for his arrogant behavior and requests Hanuman to show him his true form. Hanuman was then said to have enlarged himself and showed Bhima the size in which he had crossed the sea to go to Lanka, looking for Maa Sita Ji during the Ramayana epic period. After the Pandavas won the Kurukshetra war against the Kauravas and re- established themselves in Indraprastha, the Pandava clan is stated to have built five temples of Hanuman and other deities.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14007.955716748827!2d77.1969642554199!3d28.630093900000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd09c1e14803%3A0xb9570463c1b30b15!2sHanuman%20Mandir%20Connaught%20Place!5e0!3m2!1sen!2sin!4v1742825551329!5m2!1sen!2sin",
+          "district":"New Delhi",
+          "website":"https://www.templepurohit.com/hindu-temple/hanuman-temple-connaught-place-delhi/",
+          "image":"/704.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 705,
+          "name":"ISKCON Temple, Delhi",
+          "text": "Sri Sri Radha Parthasarathi Mandir, generally known as the ISKCON Delhi temple, is a Hindu temple of Krishna and Radha in the form of Radha Parthasarathi. The Temple was inaugurated on 5 April 1998 by the then Prime Minister of India, Atal Bihari Vajpayee in the presence of former Chief Minister of Delhi, Sahib Singh Verma, and Sushma Swaraj. It is located at Hare Krishna Hills, in the East of Kailash area of New Delhi, India.",
+          "history":"The temple was established under the guidance of A.C. Bhaktivedanta Swami Prabhupada, the founder of the International Society for Krishna Consciousness (ISKCON), with the aim of spreading the teachings of Lord Krishna and the Bhagavad Gita worldwide.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.4482595565864!2d77.2492862726546!3d28.556299233868682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce254b22ae79f%3A0xf25771c34bfa1ebf!2sISKCON%20Temple%2C%20East%20of%20Kailash!5e0!3m2!1sen!2sin!4v1742825763251!5m2!1sen!2sin" ,
+          "district":"New Delhi",
+          "website":"https://www.iskcondelhi.com/",
+          "image":"/705.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 706,
+          "name":"Jhandewalan Temple",
+          "text": "Jhandewalan Temple is a Hindu temple near Karol Bagh in Delhi, India dedicated to the goddess Vaishno Devi. It is among the oldest temple in Delhi and located on Jhandewala road.",
+          "history":"This rocky area was named as Jhandewala during the 18th century due to the presence of a large Prayer flags. During the 18th century, a famous cloth merchant named Badri Das often walked to the Delhi Ridge of Aravalli range, which was covered with flora and fauna. While digging near a waterfall, the idol of Jhandewali Mata and a stone lingam with carvings of nāga were found by him. Das built the temple on the spot. Since the hands of the idol were damaged during excavation, hands of silver were made and the original statue was consecrated in the cavern basement which came to be called 'Maa Gufa Wali'. A new replica of the idol was installed on the ground floor which came to be called 'Maa Jhande Wali'. Since a large prayer flag was installed by Badri Das, who came to be known as 'Bhagat Badri', the place came to be known as 'Jhandewala'. Within the temple compound there are subsidiary temples of Shiva as well as Kali. The temple is run by the nonprofit organization trust 'Badri Bhagat Jhandewalan Mandir Society'.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.3529431418087!2d77.20158397550142!3d28.649148975655752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd664395536d%3A0xa9fb40ba27fad8f0!2sJhandewala%20Devi%20Mandir%2C%20Karol%20Bagh!5e0!3m2!1sen!2sin!4v1742826111625!5m2!1sen!2sin" ,
+          "district":"North Delhi",
+          "website":"https://www.templepurohit.com/hindu-temple/jhandewalan-temple-delhi/",
+          "image":"/706.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 707,
+          "name":"New Delhi Kali Bari",
+          "text": "New Delhi Kali Bari is a Hindu temple dedicated to Goddess Kali and the center for Bengali culture in New Delhi, India. Established in 1930s, it is situated on Mandir Marg, close to Laxminarayan Temple (Birla Mandir) in Delhi.",
+          "history":"After several years of demands by the burgeoning expatriate Bengali population, one acre of land was allotted on the new Mandir Marg (temple road), next to the Laxminarayan Temple. The small unpretentious temple of Goddess Kali came up shortly thereafter, with a pratima (idol) resembling the one at Kalighat Kali Temple in Kolkata. The mandir committee was formalized in 1935 with Subhas Chandra Bose as the first president[1] and the first Mandir Building was inaugurated by Sir Justice Manmatha Nath Mukherjee. After that the authority established a building for the visitors and guest. Bengali tourists can book rooms or dormitory for staying there. There is an old and enriched library in Delhi Kalibari.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.9820065231934!2d77.19469527550075!3d28.630301375665894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd57aa3cca83%3A0xfeea5573b11d6dc7!2sKali%20Bari%20Temple!5e0!3m2!1sen!2sin!4v1742827217002!5m2!1sen!2sin" ,
+          "district":"Delhi",
+          "website":"https://www.bhaktibharat.com/en/mandir/new-delhi-kalibari",
+          "image":"/707.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 708,
+          "name":"Shani Dham Temple",
+          "text": "Shri Shani Dham Temple is a temple dedicated to the Hindu God Shani Dev. It is located in Asola, a suburb of the Indian capital Delhi.",
+          "history":"On 31 May 2003, a large Shani image made of rock, the largest in the world, was unveiled. It has become an attraction for devotees of Lord Shani. In 2018 the temple came under scrutiny for their affiliation with Daati Maharaj, who had been accused of sexual assault. In 2020 the temple held religious gatherings in violation of local social distancing rules related to the COVID-19 pandemic.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3802.999159763356!2d78.15038207516989!3d17.60277478332161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcbf729c8e7c2c5%3A0x4df56bd72f15f777!2sShri%20Shani%20Shakti%20Dham!5e0!3m2!1sen!2sin!4v1742827525791!5m2!1sen!2sin",
+          "district":"South West Delhi",
+          "website":"https://shanidham.in/innerleftpage/index/active/main_cat_33/lmlid/51/start/1",
+          "image":"/708.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 709,
+          "name":"Nili Chhatri",
+          "text": "Nili Chhatri Temple is an ancient Hindu temple in New Delhi, India dedicated to Shiva. It is believed that the eldest Pandava brother, Prince Yudhishthira of Mahabharata, established the temple and the Nigambodh Ghat adjacent to it, and conducted Aswamedha Yajna from here. The temple located in the Yamuna bazaar area close to the Baharadur Shahi Gate of Salimgarh Fort, on Ring Road close to the banks of the Yamuna river exists even today. The temple has been mentioned only infrequently in various chronicles of Delhi.",
+          "history":"Nili Chhatri is the tomb of Naubat Khan. Naubat Khan was a mansabdar during the time of Akbar. He built it during his lifetime in 1565 CE. The tomb is called Nili Chhatri due to the colour of its dome which was originally ornamented with blue caustic tiles. The tomb stands almost midway between Purana Qila and the tomb of Nizamuddin Auliya. It is built in an enclosure of several acres. Though the walls of the tomb are not extant in its entirety, some portions of it can still be seen in the surrounding area. But the gateway is relatively in good shape. At the entrance of the tomb is written the inscription, the letters of the inscription are of black marble inlaid on sandstone.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.904428011066!2d77.23988787550188!3d28.662580175648337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd03c5555555%3A0xd18d45fb616303f9!2sNili%20Chhatri%20Mandir%20-%20Shivji%20Temple%2C%20Old%20Delhi!5e0!3m2!1sen!2sin!4v1742827956502!5m2!1sen!2sin" ,
+          "district":"Central Delhi",
+          "website":"https://neelichhatrimandir.com/",
+          "image":"/709.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 710,
+          "name":"Uttara Guruvayurappan Temple",
+          "text": "Uttara Guruvayurappan Temple is a Hindu Temple located at Mayur Vihar-I in Delhi. The temple is dedicated to Shri Krishna, who is worshiped as Guruvayurappan, the deity of the famous Sri Krishna Temple in Guruvayur town in the state of Kerala. The Temple was founded on 17 May 1983. This temple is most revered by the Malayali and Tamil communities in Delhi.",
+          "history":"Initially, the Delhi Development Authority (DDA) allocated land for the temple in Janakpuri, West Delhi. However, due to concerns regarding Vastu Shastra, the location was deemed unsuitable. Subsequently, the land was transferred to Mayur Vihar Phase 1, where the foundation stone was laid by Prof. Vezhaparambu Parameshwaran Namboodiripad. ",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.873655537244!2d77.29534317549968!3d28.603566875680563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce499e3e2b5db%3A0x75517a6dd33dd1cc!2sUttara%20Guruvayurappan%20Temple!5e0!3m2!1sen!2sin!4v1742977124840!5m2!1sen!2sin" ,
+          "district":"West Delhi",
+          "website":"https://www.pilgrimaide.com/blog/Uttara-Guruvayurappan-Temple-Delhi?srsltid=AfmBOorNNjqk1kpRbcEnf8PS4rZmaqWDtrBrBioxczgMwNQjwdGIkh_Y",
+          "image":"/710.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 711,
+          "name":"Uttara Swami Malai Temple",
+          "text": "Uttara Swami Malai Temple, popularly known as Malai Mandir, is a Hindu temple complex in New Delhi, India located on the affluent Palam Marg primarily dedicated to Lord Swaminatha, most revered by the religious Hindus of Tamil and other South Indian community in the city. One can easily reach this temple by metro, nearest metro station is Vasant Vihar which is around 2 km away from there.",
+          "history":"8 September 1965 The foundation stone for the temple is laid by M. Bhakthavatsalam, Chief Minister of Tamil Nadu, at a function held under the presidency of Sri Lal Bahadur Shastri, then Prime Minister of India. 7 June 1973 The main temple for Lord Swaminatha - Sree Swaminatha Swami Temple - is consecrated and a Mahakumbhabhishekham performed. 13 June 1990 The temples for Sree Karpaga Vinayakar, Sree Sundareswarar and Devi Meenakshi are consecrated and Mahakumbhabhishekhams performed. A Jeeranoddharana Kumbhabhishekham for the Lord Swaminatha temple is also performed on the same day. 7 July 1995 The Navagraha temple (nine planets), along with a small temple for Idumban Swami, is consecrated and Kumbhabhishekham performed. 9 November 1997 The Adi Sankara Hall is inaugurated. 27 June 2001 The third Punaruddharana, Ashtabandhana and Swarna-Rajatha Bandhana Mahakumbhabhishekham of the temples are performed by H.H. Kanchi Kamakoti Peethadhipati Sri Jayendra Saraswati Swamigal. H.H. Sri Vijayendra Saraswati Swamigal also participates in the yagna pooja on the night of 25 June 2001.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.070921454519!2d77.16321757549844!3d28.567632975700246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1da14d2c0965%3A0x329023ebb8c472c4!2sUttara%20Swamimalai%20Temple!5e0!3m2!1sen!2sin!4v1742977357943!5m2!1sen!2sin" ,
+          "district":"South West Delhi",
+          "website":"https://murugan.org/temples/malaimandir.htm",
+          "image":"/711.jpg",
+          "state": "Delhi",
+          "country": "India"
+        },
+        {
+          "t_id": 712,
+          "name":"Yogmaya Temple, New Delhi",
+          "text": "Yogmaya Temple, also Jogmaya temple, is a Hindu temple dedicated to the goddess Yogmaya, also considered to be a sister of Krishna as she took avatar as Vindhyavasini, and situated in Mehrauli, New Delhi, India, close to the Qutb complex. According to local priests and native records, this is one of those 27 temples destroyed by Mamluks and it is the only surviving temple belonging to pre-sultanate period which is still in use. Hindu king Samrat Vikramaditya Hemu reconstructed the temple and brought back the temple from ruins. During Aurangzeb's reign a rectangular Islamic Style hall was added to the temple. Though its original (300-200 BCE) architecture could never be restored after its destruction by Islamic rulers, but its reconstruction had been carried out repetitively by the locals.",
+          "history":"In 12th-century Jain scriptures, Mehrauli is also mentioned as Yoginipura, after the temple. The temple is believed to be built by the Pandavas, at the end of Mahabharata war. Mehrauli is one of the seven ancient cities that make up the present state of Delhi. The temple has its association with Mughal Emperor Akbar II (1806-37) by Lala Sethmal.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.4812473361644!2d77.18013147549685!3d28.525251275723495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e08c95d51ab%3A0x7cae1d7317700381!2sShri%20Yogmaya%20Temple%2C%20Mehrauli!5e0!3m2!1sen!2sin!4v1742977513567!5m2!1sen!2sin" ,
+          "district":"South Delhi",
+          "website":"https://www.templepurohit.com/hindu-temple/yogmaya-temple-delhi/",
+          "image":"/712.jpeg",
+          "state": "Delhi",
+          "country": "India"
+        }
+      ]
+    },
 
     { 
       "id": 8, 
@@ -1986,7 +2136,134 @@
     },
 
     { "id": 20, "name": "Odisha" },
-    { "id": 21, "name": "Punjab" },
+
+    { 
+      "id": 21, 
+      "name": "Punjab",
+      "temples":[
+        {
+          "t_id": 2101,
+          "name":"Devi Talab Mandir",
+          "text": "Devi Talab Mandir is a Hindu temple, located in Jalandhar, Punjab, India. The temple is devoted to Goddess Durga and is visited by thousands of pilgrims every year. It is regarded as one of the 51 Shakti Pithas in India. A model of the Amarnath Temple, dedicated to God Shiva, is located within the temple complex. There is an old temple dedicated to Goddess Kali located next to the Mandir. One of the main attractions of the temple is an ancient tank that holds great religious significance for Hindu devotees. The temple has intricate gold work both inside and on its top.",
+          "history":"Devi Talab Mandir is an ancient Hindu temple located in Jalandhar, Punjab, India, and is dedicated to Goddess Durga. It is one of the 51 Shakti Peethas, believed to be the spot where Sati’s right breast fell when Lord Shiva carried her body across the universe.",
+          "iframeURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13631.501358019455!2d75.56921170750955!3d31.33481568878784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a5a650fce9077%3A0x3f79e0105477f0f!2sDevi%20Talab%20Mandir!5e0!3m2!1sen!2sin!4v1742978028848!5m2!1sen!2sin" ,
+          "district":"Jalandhar",
+          "website":"https://shreedevitalabmandir.org/",
+          "image":"/2101.jpg",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2102,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2103,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2104,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2105,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2106,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2107,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2108,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2109,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        },
+        {
+          "t_id": 2110,
+          "name":"",
+          "text": "",
+          "history":"",
+          "iframeURL":"",
+          "district":"",
+          "website":"",
+          "image":"",
+          "state": "Punjab",
+          "country": "India"
+        }
+      ]
+    },
+
     { "id": 22, "name": "Rajasthan" },
 
     { 
